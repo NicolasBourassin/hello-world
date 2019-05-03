@@ -8,6 +8,9 @@ Wrote by Nicolas Bourassin, french PhD in bioinformatics.
 ## Title 2
 ### Title 3
 standard text
+
 `code quote`
+
 **bold**
+
 *italic*
